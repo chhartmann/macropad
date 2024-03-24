@@ -7,6 +7,9 @@ The project has been inspired by https://hackaday.io/project/189914-rgb-macropad
 
 It is based on the Arduino board package: https://github.com/DeqingSun/ch55xduino
 
+# Features
+This firmware only sets up a serial connection to receive the buttons pressed and to control the LEDs. It does not provide a USB HID device (which is also easily possible with the Arduino board package).
+
 # How To
 To put the controller in boot mode, there are two solder eyes on the board, which can be connected via a 10K resistor. The resistor does not to be soldered on the board. It can just be hold there.
 The resistor must connect the two contacts before the board is plugged in. The resistor must stay connected until the firmware is flashed the first time.
