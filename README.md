@@ -1,7 +1,7 @@
 # Firmware for 3 button keyboard
 The keyboard was bought on Aliexpress https://de.aliexpress.com/item/1005006498826681.html?spm=a2g0o.productlist.main.33.657f6f41KaYzvy&algo_pvid=3afdf448-664d-4bd5-8ced-1f356025f6e6&algo_exp_id=3afdf448-664d-4bd5-8ced-1f356025f6e6-16&pdp_npi=4%40dis%21EUR%2112.15%210.46%21%21%2112.88%210.49%21%402103835c17112633249598035e0698%2112000037424029047%21sea%21DE%210%21AB&curPageLogUid=kA4DLUVZwk32&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-There seem to be different type of macro keyboards containing an CH552 controller.
+There seem to be different type of macro keyboards containing an CH552 controller available on Aliexpress. As it contains an CH552, this is pretty convenient. One can have a programmable macro keyboard without building their own.
 
 The project has been inspired by https://hackaday.io/project/189914-rgb-macropad-custom-firmware/log/216585-programming-with-ch55xduino-mapping-the-3-keys
 
